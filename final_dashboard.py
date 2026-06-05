@@ -78,7 +78,7 @@ st.write(
 )
 
 uploaded_file = st.file_uploader(
-    "Upload Density CSV",
+    "Upload Density CSV. you can find a demo file demo_density.csv here- https://github.com/AditiVijayvargiya1711/traffic-density-prediction/blob/main/demo_density.csv",
     type=["csv"]
 )
 
